@@ -22,7 +22,7 @@ My work connects control theory with numerical optimization and practical implem
 
 A single public collection of three Persian-language university workshops, with session notes, lecture links, and source codes in one repository:
 
-* **Numerical Optimal Control** — CasADi/MATLAB, direct and indirect methods, shooting, DP, LQR
+* **Numerical Optimal Control** — CasADi/MATLAB, direct and indirect methods, LQR and Dynamic Programming
 * **Model Predictive Control using CasADi** — receding-horizon control and nonlinear MPC
 * **Distributed Optimization** — CVXPY notebooks plus complementary CasADi examples
 
