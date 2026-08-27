@@ -1,4 +1,5 @@
-![banner](banner.svg)
+![banner](banner.jpg)<img width="1500" height="500" alt="QazeE" src="https://github.com/user-attachments/assets/517ddbae-3191-4e9b-954b-f40d8c864135" />
+
 
 # Mohammadreza Ghobadzadeh
 
