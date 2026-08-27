@@ -10,23 +10,6 @@ Tehran, Iran
 
 My work connects control theory with numerical optimization and practical implementation in MATLAB, Python, CasADi, and CVXPY.
 
-## Profile
-
-| | |
-| --- | --- |
-| Email | [mrghobadzadeh@gmail.com](mailto:mrghobadzadeh@gmail.com) |
-| LinkedIn | [mohammadreza-ghobadzadeh-8a11a2224](https://www.linkedin.com/in/mohammadreza-ghobadzadeh-8a11a2224) |
-| Google Scholar | [citations?user=6gKUK8EAAAAJ](https://scholar.google.com/citations?user=6gKUK8EAAAAJ&hl=en) |
-| YouTube | [Control Research Team](https://www.youtube.com/@Control_Research_Team) |
-| Education | M.Sc. Control Systems, University of Tehran (GPA 3.65/4) |
-| B.Sc. | Electrical Engineering, University of Mohaghegh Ardabili (GPA 3.92/4, ranked 1st / 120) |
-| Thesis | Motion Planning Using Learning-based Model Predictive Control |
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-ghobadzadeh-8a11a2224)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6gKUK8EAAAAJ&hl=en)
-[![YouTube](https://img.shields.io/badge/YouTube-Lectures-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Control_Research_Team)
-[![Email](https://img.shields.io/badge/Email-mrghobadzadeh%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mrghobadzadeh@gmail.com)
-
 ## Research Interests
 
 * Control Theory and Optimization-Based Control
